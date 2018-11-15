@@ -20,10 +20,6 @@ Done.
 
 Ofwel `0x3C`
 
-Eerst een *hello world* tonen. 
-
-
-
 ## Encoder
 
 
